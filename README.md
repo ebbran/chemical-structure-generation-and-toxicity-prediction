@@ -60,7 +60,7 @@ Our full-stack application processes uploaded spectral files to generate real-ti
 
 ### Test Case 1: High Accuracy Match
 *(Prediction with 94.7% Tanimoto similarity and a "Safe" hybrid assessment)*
-![UI Result 1](ui_result_1.png.png)
+![UI Result 1](ui_result_1.png)
 
 ---
 
